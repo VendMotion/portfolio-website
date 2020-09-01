@@ -1,14 +1,12 @@
-h1 {
-  text-align: center;
-  color: white;
-  background-color: black;
-  padding: 25px;
-}
 @font-face {
-  font-family: 'milky_niceregular';
-  src: url('milkynice-webfont.woff2') format('woff2'),
-       url('milkynice-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-
-}
+    font-family: "Varsity";
+    src: url(fonts/varsity_regular.ttf);
+  }
+  
+  h1 {
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 25px;
+    font-family: "Varsity";
+  }
