@@ -12,6 +12,12 @@ h1 {
   font-size: 48px;
 }
 
+div {
+
+  font-family: "Defying Gravity";
+
+}
+
 /* The sidepanel menu */
 .sidepanel {
   height: 1000px; /* Specify a height */
