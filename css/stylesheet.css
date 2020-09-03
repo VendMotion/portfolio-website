@@ -1,14 +1,14 @@
 @font-face {
-  font-family: "Franchise";
-  src: url(fonts/Franchise.ttf);
+  font-family: "Defying Gravity";
+  src: url(fonts/KGDefyingGravity.ttf);
 }
 
 h1 {
   text-align: center;
-  color: white;
-  background-color: black;
-  padding: 25px;
-  font-family: "Franchise";
+  color: black;
+  padding: 10px;
+  font-weight: bold;
+  font-family: "Defying Gravity";
   font-size: 48px;
 }
 
@@ -52,10 +52,10 @@ h1 {
 
 /* Style the button that is used to open the sidepanel */
 .openbtn {
-  font-size: 64px;
+  font-size: 30px;
   float: left;
   cursor: pointer;
-  background-color: black;
+  background-color: #111;
   color: white;
   padding: 10px 15px;
   border: none;
